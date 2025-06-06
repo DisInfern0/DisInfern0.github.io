@@ -1,0 +1,35 @@
+{
+	"name": "Rumble",
+	"description": "A plugin that adds Rumble as a source",
+	"author": "FUTO",
+	"authorUrl": "https://futo.org",
+
+	"platformUrl": "https://rumble.com",
+	"sourceUrl": "https://DisInfern0.github.io/RumbleConfig.json",
+	"repositoryUrl": "https://github.com/DisInfern0/grayjay-rumble-plugin",
+	"scriptUrl": "./RumbleScript.js",
+	"version": 52,
+	"iconUrl": "./rumble.png",
+	"id": "2ce7b35e-d2b2-4adb-a728-a34a30d30359",
+
+	"scriptSignature": "",
+	"scriptPublicKey": "",
+	"packages": ["Http","DOMParser"],
+	
+	"allowEval": false,
+	"allowUrls": [
+		"rumble.com"
+	],
+	
+	"authentication": {
+		"loginUrl": "https://rumble.com/login.php",
+		"cookiesToFind": [ "u_s" ]
+	},
+
+	"supportedClaimTypes": [4],
+	"changelog": {
+		"52" : [
+			"Fix source list removing bad HLS sources"
+		]
+	}
+}
