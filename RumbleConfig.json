@@ -6,7 +6,7 @@
 
 	"platformUrl": "https://rumble.com",
 	"sourceUrl": "https://DisInfern0.github.io/RumbleConfig.json",
-	"repositoryUrl": "https://github.com/DisInfern0/grayjay-rumble-plugin",
+	"repositoryUrl": "https://DisInfern0.github.io",
 	"scriptUrl": "./RumbleScript.js",
 	"version": 52,
 	"iconUrl": "./rumble.png",
