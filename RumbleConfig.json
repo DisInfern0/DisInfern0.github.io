@@ -12,8 +12,8 @@
 	"iconUrl": "./rumble.png",
 	"id": "2ce7b35e-d2b2-4adb-a728-a34a30d30359",
 
-	"scriptSignature": "",
-	"scriptPublicKey": "",
+	"scriptSignature": "b3BlbnNzbCBkZ3N0IC1zaGE1MTIgLXNpZ24gL2MvVXNlcnMvSHVudGVyXERlc2t0b3BcS2V5XHNzaAo=",
+	"scriptPublicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEHHldLTeLaBfKNhlgiPLVvruPVPpjkINTDq6CzW2OfbcDjeXGuWJySdc22l+rEdgQkv5WleUHRmkbIa5ax++OBQ==",
 	"packages": ["Http","DOMParser"],
 	
 	"allowEval": false,
